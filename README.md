@@ -1,4 +1,4 @@
-# B-l-m-Sonu-al-mas---Part2
+# Bolum-Sonu-Calismasi-Part2
 Bölüm Sonu Çalışması - Part2
 Kodluyoruz.org da HTML'de öğrendiğimiz bilgileri uyguladığımız bir çalışma oldu.
 Başlık altında öğrendiğimiz konular:
